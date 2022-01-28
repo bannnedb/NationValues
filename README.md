@@ -1,1 +1,1 @@
-bannnedValues is closely based off of Sapply Values and is made to use 8values' UI.
+NationValues is a political test closely based off of Sapply Values and is made to use 8values' U. NationValues measures political views that relate to a nation on three axes, the Nation, Diplomacy and Race Axes.
