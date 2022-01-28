@@ -1,2 +1,1 @@
-# NationValues
-A political test that relates to Nation, Race and Foreign Policy
+bannnedValues is closely based off of Sapply Values and is made to use 8values' UI.
